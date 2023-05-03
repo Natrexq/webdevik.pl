@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&family=Share+Tech&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;1,300;1,400;1,500&display=swap');
+
+
+:root{
+    --poppins-font: 'Poppins', sans-serif;
+    --sharetech-font:  'Share Tech', sans-serif;
+    --sourcecode-font: 'Source Code Pro', monospace;
+    --brunoace-font: 'Bruno Ace', cursive;
+    
+    /* Zmienne zastępujące ciągłe przepisywanie nazwy fontu */
+
+    --colors-black1: ;
+
+
+    
+
+
+    /* Zmienne z kolorami */
+    
+    --cnp-black: #0E0E0E;
+    --cnp-gray: #1C1A25;
+    --cnp-brown: #211D1A;
+    --cnp-merino: #F1E9DC;
+    --cnp-orange: #f1802d;
+    --cnp-darkblue:#0F2C40;
+    --cnp-blue: #3A4F7A;
+    --cnp-clearwhite: #FFFFFF;
+    --cnp-silver: #7E8E98;
+    --cnp-lightblue: #2D83BF;
+    ---cnp-lightblue2: #90CBEF;
+    --cnp-aqua: #439A97;
+    --cnp-pink: #FFCAC8;
+    --cnp-golden: #FFBF00;
+    --cnp-yellow: #FED049;
+    --cnp-darkpink: #9C254D;
+    --cnp-darkgray: #282A3A;
+    --cnp-modern-gray: #497174;
+    --cnp-modern-white: #D6E4E5;
+    --cnp-modern-orange: #EB6440;
+    --cnp-modern-dirty-white: #EFF5F5;
+    --cnp-ideal-gray: #393E46;
+    --cnp-ideal-green: #6D9886;
+    --cnp-ideal-beige: #F2E7D5;
+    --cnp-ideal-white: #F7F7F7;
+    --cnp-red: #CF0A0A;
+
+
+    /* Zmienne z dodatkowymi kolorami */
+    
+
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+/* .navigation{
+    width: 100%;
+    height: 10rem;
+    background-color: red;
+    padding: 0;
+    margin: 0;
+} */
